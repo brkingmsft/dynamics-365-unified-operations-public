@@ -53,6 +53,7 @@ You can identify canceling and correcting invoices in two ways:
 
 > [!NOTE]
 > This feature is available only if the **Free text invoice correction** configuration key is selected.
+For more information on how to enable Configuration keys click <a href="https://docs.microsoft.com/en-us/dynamics365/unified-operations/dev-itpro/sysadmin/maintenance-mode">here.</a>
 
 
 
